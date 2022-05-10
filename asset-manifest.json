@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/routing-task/static/css/main.05aabc10.css",
-    "main.js": "/routing-task/static/js/main.17e0806e.js",
-    "static/media/about.png": "/routing-task/static/media/about.7f84a07ba4fb992ab227.png",
-    "static/media/LandingImg.png": "/routing-task/static/media/LandingImg.75fe05117b5ccf5b2b1b.png",
-    "index.html": "/routing-task/index.html",
-    "main.05aabc10.css.map": "/routing-task/static/css/main.05aabc10.css.map",
-    "main.17e0806e.js.map": "/routing-task/static/js/main.17e0806e.js.map"
+    "main.css": "/routing-pages-task/static/css/main.35cf5df1.css",
+    "main.js": "/routing-pages-task/static/js/main.2ee9ec1b.js",
+    "static/media/about.png": "/routing-pages-task/static/media/about.7f84a07ba4fb992ab227.png",
+    "static/media/LandingImg.png": "/routing-pages-task/static/media/LandingImg.75fe05117b5ccf5b2b1b.png",
+    "index.html": "/routing-pages-task/index.html",
+    "main.35cf5df1.css.map": "/routing-pages-task/static/css/main.35cf5df1.css.map",
+    "main.2ee9ec1b.js.map": "/routing-pages-task/static/js/main.2ee9ec1b.js.map"
   },
   "entrypoints": [
-    "static/css/main.05aabc10.css",
-    "static/js/main.17e0806e.js"
+    "static/css/main.35cf5df1.css",
+    "static/js/main.2ee9ec1b.js"
   ]
 }
